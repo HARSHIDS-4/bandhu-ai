@@ -14,6 +14,8 @@ import './widgets/chat_message_widget.dart';
 import './widgets/quick_suggestions_widget.dart';
 import './widgets/voice_input_widget.dart';
 
+
+
 class AiAssistantChat extends StatefulWidget {
   const AiAssistantChat({super.key});
 
