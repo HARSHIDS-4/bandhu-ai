@@ -1,4 +1,4 @@
-// Global build configuration for all sub-projects
+﻿// Global build configuration for all sub-projects
 
 allprojects {
     // FIX 1: Use file() to assign a File object to buildDir

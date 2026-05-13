@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Flutter Plugins Initialization Scripts
  * 
  * Purpose: This file contains initialization code for Flutter plugins that require

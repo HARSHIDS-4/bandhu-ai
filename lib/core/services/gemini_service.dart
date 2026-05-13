@@ -1,4 +1,4 @@
-import 'package:dio/dio.dart';
+﻿import 'package:dio/dio.dart';
 
 class GeminiService {
   static final GeminiService _instance = GeminiService._internal();
