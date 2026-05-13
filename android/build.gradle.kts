@@ -13,6 +13,8 @@ allprojects {
         // FIX 2: Use double quotes "" for the string argument
         project.evaluationDependsOn(":app") 
     }
+
+
     
     // Define repositories for all projects (app, plugins, etc.)
     repositories {
